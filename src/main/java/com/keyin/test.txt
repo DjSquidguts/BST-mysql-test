@@ -1,0 +1,10 @@
+{"root":
+{"data":99,"left":
+{"data":88,"left":
+{"data":77,"left":
+{"data":66,"left":
+{"data":55,"left":
+{"data":44,"left":
+{"data":33,"left":
+{"data":22,"left":
+{"data":1}}}}}}}}}}
